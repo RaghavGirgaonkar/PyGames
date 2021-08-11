@@ -8,7 +8,8 @@ pip3 install pygame
 
 # Ping Pong
 
-Run the pong.py file to play Ping POng with the computer
+![Image of Ping Pong](https://github.com/RaghavGirgaonkar/PyGames/pong.png)
+Run the pong.py file to play Ping Pong with the computer
 
 # Spaceships
 
